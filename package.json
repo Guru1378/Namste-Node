@@ -9,6 +9,8 @@
   "author": "Guru Prasad Nooliveedu",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "mongodb": "^6.16.0",
+    "mongoose": "^8.14.2"
   }
 }
